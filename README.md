@@ -11,7 +11,7 @@
 ## Key Features
 
 ### Coming soon
-- **Coming soon**
+- Coming soon
 
 ### Project Management
 **Save/Load Projects**: Manage multiple tuning presets
